@@ -43,7 +43,7 @@ https://github.com/udacity/deep-reinforcement-learning/tree/master/p3_collab-com
 
 The easiest way to install the requirements is to use the file [requirements.txt](python/requirements.txt)
 ```
-tensorflow==1.7.1
+tensorflow >= 1.15.2
 Pillow>=4.2.1
 matplotlib
 numpy>=1.11.0
