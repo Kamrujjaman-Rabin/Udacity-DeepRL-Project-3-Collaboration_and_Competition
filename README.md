@@ -36,7 +36,7 @@ Follow the instructions in this link in order to install all the dependencies re
 https://github.com/udacity/deep-reinforcement-learning#dependencies
 
 Download the `Project 3 - Collaboration and Competition` into your computer:<br/>
-https://github.com/jckuri/DeepRL-Collaboration-and-Competition
+https://github.com/Kamrujjaman-Rabin/Udacity-DeepRL-Project-3-Collaboration_and_Competition
 
 Follow the instructions in this link in order to install the Unity environment required to run this project:<br/>
 https://github.com/udacity/deep-reinforcement-learning/tree/master/p3_collab-compet#getting-started
@@ -64,7 +64,7 @@ Execute this command in order to install the software specified in `requirements
 This command is executed at the beginning of the Jupyter notebook [Tennis.ipynb](Tennis.ipynb).
 
 If you have troubles when installing this project, you can write me at:<br/>
-https://www.linkedin.com/in/jckuri/
+https://www.linkedin.com/in/kamrujjaman-rabin-82029a13a/
 
 ## Instructions
 
